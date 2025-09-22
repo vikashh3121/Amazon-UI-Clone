@@ -14,7 +14,15 @@ Fully designed using HTML and CSS only (no JavaScript).
 
 <img width="959" height="536" alt="image" src="https://github.com/user-attachments/assets/2ed10046-c0e6-4cfb-bdbc-2db1671b5828" />
 
+
+
+
+
 <img width="956" height="503" alt="image" src="https://github.com/user-attachments/assets/6be3ab63-bc89-4c18-9ec1-0d56ee9a936b" />
+
+
+
+
 
 <img width="956" height="501" alt="image" src="https://github.com/user-attachments/assets/8df59fd2-cea5-4c4a-a7d2-7f0abcca1b31" />
 
