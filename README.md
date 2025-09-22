@@ -1,4 +1,4 @@
-#Amazon-UI-Clone
+# Amazon-UI-Clone
 
 
 This is my first web development project — an Amazon website clone created using HTML and CSS. The project focuses on replicating the UI of Amazon’s homepage with a clean structure and styling.
