@@ -1,0 +1,421 @@
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+
+.navbar {
+    height: 60px;
+    background-color: #17212d;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.nav-logo {
+    height: 50px;
+    width: 100px;
+
+}
+
+.logo {
+    background-image: url("A-logo.png");
+    height: 50px;
+    width: 100%;
+    background-size: cover;
+
+}
+
+.border {
+    border: 2px solid transparent;
+}
+
+.border:hover {
+    border: 2px solid white;
+}
+
+/** box2 **/
+.add-first {
+    color: #cccccc;
+    font-size: 0.8rem;
+    margin-left: 15px;
+
+}
+
+.add-second {
+    font-size: 1rem;
+    margin-left: 3px;
+
+}
+
+.add-icon {
+    display: flex;
+    align-items: center;
+
+}
+
+/** Box3**/
+.nav-search {
+    display: flex;
+    justify-content: space-evenly;
+    width: 620px;
+    height: 40px;
+    border-radius: 4.5px;
+    text-align: center;
+
+}
+
+.search-select {
+    background-color: #f3f3f3;
+    border-top-left-radius: 4.5px;
+    border-bottom-left-radius: 4.5px;
+    border: none;
+
+}
+
+.nav-search:hover {
+    border: 2px solid rgba(255, 153, 0, 0.904);
+}
+
+.search-icon {
+    background-color: rgba(255, 153, 0, 0.904);
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top-right-radius: 4.5px;
+    border-bottom-right-radius: 4.5px;
+    color: #17212d;
+}
+
+.search-input {
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+
+}
+
+/**box4 **/
+
+span {
+    font-size: 0.7rem;
+}
+
+.nav-sec {
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+.cart i {
+    font-size: 28px;
+}
+
+.cart {
+    font-size: 0.85rem;
+    font-weight: 710;
+}
+
+
+/** panel**/
+.panel {
+    background-color: #222f3d;
+    height: 35px;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 0.85rem;
+}
+
+.panel-ops p {
+    display: inline;
+    width: 868px;
+    margin-left: 15px;
+
+}
+
+.panel-ops {
+    width: 75%;
+
+}
+
+.deals {
+    font-size: 1rem;
+    font-weight: 650;
+
+}
+
+.hero-section {
+    background-image: url("Hero.jpg");
+    height: 380px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+
+}
+
+.hero-msg {
+    background-color: white;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    width: 80%;
+    margin-bottom: 60px;
+
+}
+
+.hero-msg a {
+    color: #007185;
+}
+
+/** box section**/
+.box {
+    height: 410px;
+    width: 23%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 10px;
+
+
+}
+
+.shop-section {
+    height: 922px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: #ff6600d2;
+
+}
+
+/** box1**/
+.box1-img {
+    background-image: url("Box1.jpg");
+    height: 350px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.sub-box1 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sub-box1 p {
+    color: #007185;
+}
+
+/** box2**/
+
+.box2-img {
+    background-image: url("makeup.jpg");
+    height: 350px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.sub-box2 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sub-box2 p {
+    color: #007185;
+}
+
+/** box3**/
+
+.box3-img {
+    background-image: url("Ethnic.jpg");
+    height: 350px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.sub-box3 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sub-box3 p {
+    color: #007185;
+}
+
+/** box4**/
+.box4-img {
+    background-image: url("books.jpg");
+    height: 350px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.sub-box4 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sub-box4 p {
+    color: #007185;
+}
+
+/** box5**/
+.box5-img {
+    background-image: url("Toys.jpg");
+    height: 350px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.sub-box5 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sub-box5 p {
+    color: #007185;
+}
+
+/** box6**/
+.box6-img {
+    background-image: url("Dicovery.jpg");
+    height: 320px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.sub-box6 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sub-box6 p {
+    color: #007185;
+}
+
+/** box7**/
+.box7-img {
+    background-image: url("Fitness.jpg");
+    height: 350px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.sub-box7 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sub-box7 p {
+    color: #007185;
+}
+
+/** box8**/
+.box8-img {
+    background-image: url("Electronic.jpg");
+    height: 350px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.sub-box8 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sub-box8 p {
+    color: #007185;
+}
+
+/** footer**/
+
+footer {
+    margin-top: 10px;
+
+}
+
+.foot-pan1 {
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.8rem;
+}
+
+
+.foot-pan2 {
+    background-color: #222f3d;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul {
+    margin-top: 15px;
+}
+
+
+ul a {
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color: #dddddd;
+}
+
+.foot-pan3 {
+    background-color: #222f3d;
+    border-top: 0.1px solid white;
+    height: 68px;
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    background-image: url("A-logo.png");
+    background-size: cover;
+    height: 50px;
+    width: 100px;
+}
+
+.foot-pan4 {
+    background-color: #131A22;
+    height: 70px;
+    color: white;
+
+
+
+}
+
+.page {
+    padding-top: 10px;
+    font-size: 0.7rem;
+    text-align: center;
+}
+
+.copy {
+    margin-top: 10px;
+    font-size: 0.7rem;
+    text-align: center;
+}
